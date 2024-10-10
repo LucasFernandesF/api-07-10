@@ -1,1 +1,2 @@
-Atividade de api, do dia 07-10-2024 
+# API DE ESTOQUE
+API desenvolvida para testar a integração de JavaScript com banco de dados, permitindo a criação, leitura, atualização e exclusão de informações de estoque.
